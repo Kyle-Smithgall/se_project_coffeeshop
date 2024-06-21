@@ -97,7 +97,7 @@
   color: #838383;
 }
 
-.header__paragraph {
+.header__paragraph_line {
   margin: 0 0;
 }
 
@@ -140,7 +140,7 @@
   justify-content: center;
 }
 
-.recipes__video_wrapper {
+.recipes__video {
   display: flex;
   flex-direction: column;
 }
@@ -151,7 +151,7 @@
   border: none;
 }
 
-.recipes__caption_wrapper {
+.recipes__video-captions {
   margin: 24px 0 0;
   display: flex;
   justify-content: space-between;
