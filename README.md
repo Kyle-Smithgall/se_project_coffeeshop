@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Animating the background images
+- Making the page more responsive for different screen sizes
+- Adding another gradient somewhere for design cohesivity
