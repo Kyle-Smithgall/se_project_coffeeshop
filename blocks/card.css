@@ -1,8 +1,5 @@
 .card {
-  display: flex;
   width: 540px;
-  margin: 0 auto;
-  flex-direction: column;
   margin: 0;
   padding: 0;
 }
@@ -14,6 +11,13 @@
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
+}
+
+.card__list {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
 }
 
 .card__list-item {

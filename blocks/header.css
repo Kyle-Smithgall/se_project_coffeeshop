@@ -5,10 +5,7 @@
   min-height: 720px;
   max-height: 800px;
   padding: 30px 80px 40px;
-  background-image: url("../images/background_header.svg");
-  background-color: #ffffff;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: url("../images/background_header.svg") no-repeat center/cover #fff;
   box-sizing: border-box;
   position: relative;
 }
@@ -39,6 +36,8 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 683px;
+  z-index: 1;
+  margin: 28px 0 0;
 }
 
 .header__image {
@@ -59,13 +58,10 @@
   font-size: 16px;
   line-height: 20px;
   color: #838383;
+  z-index: 1;
 }
 
-.header__paragraph_line {
-  margin: 0 0;
-}
-
-.header__address {
+.header__paragraph {
   margin-top: auto;
   margin-bottom: 0;
 }

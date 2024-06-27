@@ -16,7 +16,7 @@
   color: #fff;
   position: relative;
   overflow: hidden;
-  padding: 110px 80px 173px;
+  padding: 100px 80px 173px;
   display: flex;
 }
 
@@ -27,7 +27,6 @@
   font-size: 44px;
   line-height: 52px;
   position: relative;
-  top: -10px;
   max-width: 251px;
   z-index: 1;
 }
@@ -48,7 +47,7 @@
 }
 
 .about__content {
-  margin-left: auto;
+  margin: 19px 0 0 auto;
   display: flex;
   flex-direction: column;
   row-gap: 20px;
